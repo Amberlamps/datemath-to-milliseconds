@@ -1,6 +1,6 @@
 {
   "name": "datemath-to-milliseconds",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Convert date math strings to milliseconds.",
   "main": "index.js",
   "scripts": {
