@@ -1,0 +1,31 @@
+{
+  "name": "datemath-to-milliseconds",
+  "version": "0.0.1",
+  "description": "Convert date math strings to milliseconds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amberlamps/datemath-to-milliseconds.git"
+  },
+  "keywords": [
+    "date",
+    "math",
+    "date",
+    "math",
+    "datemath",
+    "string",
+    "milliseconds"
+  ],
+  "author": "Alexander Behrens <alexander.behrens.84@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amberlamps/datemath-to-milliseconds/issues"
+  },
+  "homepage": "https://github.com/Amberlamps/datemath-to-milliseconds#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
