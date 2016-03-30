@@ -17,7 +17,9 @@
     "math",
     "datemath",
     "string",
-    "milliseconds"
+    "milliseconds",
+    "elastic",
+    "elasticsearch"
   ],
   "author": "Alexander Behrens <alexander.behrens.84@gmail.com>",
   "license": "MIT",
